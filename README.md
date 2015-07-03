@@ -1,1 +1,1 @@
-# goof_troop
+# Goof Troop
